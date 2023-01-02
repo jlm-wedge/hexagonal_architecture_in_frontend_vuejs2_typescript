@@ -1,0 +1,1 @@
+# hexagonal_architecture_in_frontend_vuejs2_typescript
